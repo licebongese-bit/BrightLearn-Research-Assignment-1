@@ -1,4 +1,2 @@
-# BrightLearn-Research-Assignment-1
-Foundations of Data Analytics and Data Sciences
-
-This repository contains my first research assignment for the Foundations of Data Analytics
+# BrightLearn: Foundations of Data Analytics & Data Science
+Welcome to the central repository for **BrightLearn Data Analytics**, covering core principles, methodologies, and practical applications across Data Analytics and Data Science.
